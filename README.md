@@ -1,12 +1,10 @@
 # Rox Desktop Updates
 
-**Latest version:** v1.0.26
+**Latest version:** v1.0.27
 
 ## Release Notes
 
-- Introducing new macOS app to the Rox family
-- Meeting recorder
-- Auto updater
+- Refreshed app icon with the new macOS 26 Liquid Glass design
 
 ## Download
 

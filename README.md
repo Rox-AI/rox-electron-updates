@@ -1,6 +1,6 @@
 # Rox Desktop Updates
 
-**Latest version:** v1.0.30
+**Latest version:** v1.0.31
 
 ## Release Notes
 

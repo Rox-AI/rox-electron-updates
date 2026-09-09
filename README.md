@@ -1,10 +1,10 @@
 # Rox Desktop Updates
 
-**Latest version:** v1.0.37
+**Latest version:** v1.0.38
 
 ## Release Notes
 
-- Refreshed app icon with the new macOS 26 Liquid Glass design
+- Updated app icon to match the new iOS design
 
 ## Download
 
